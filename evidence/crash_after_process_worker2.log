@@ -1,0 +1,7 @@
+21:33:04 [worker-2] Waiting for messages on queue 'orders' (CTRL+C to stop)
+21:33:05 [worker-2] RECEIVED  ORD-0002 event_id=evt-31ccde5b redelivered=False delivery_tag=1
+21:33:05 [worker-2] PROCESSING ORD-0002: item=ITEM-542 qty=5
+21:33:06 [worker-2] ACKED     ORD-0002 event_id=evt-31ccde5b
+21:33:06 [worker-2] RECEIVED  ORD-0001 event_id=evt-a1288cae redelivered=True delivery_tag=2
+21:33:06 [worker-2] DUPLICATE event_id=evt-a1288cae (ORD-0001) already processed -> skipping business action, ACKing
+21:33:12 [worker-2] Shutting down

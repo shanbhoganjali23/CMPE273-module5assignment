@@ -1,0 +1,5 @@
+21:32:45 [producer] Published {"event_id": "evt-0c9eae2e", "order_id": "ORD-0001", "item_id": "ITEM-143", "quantity": 2}
+21:32:45 [producer] Published {"event_id": "evt-2ea4c6fc", "order_id": "ORD-0002", "item_id": "ITEM-874", "quantity": 5}
+21:32:45 [producer] Published {"event_id": "evt-8c4dfa2a", "order_id": "ORD-0003", "item_id": "ITEM-505", "quantity": 3}
+21:32:45 [producer] Published {"event_id": "evt-be9d8a2f", "order_id": "ORD-0004", "item_id": "ITEM-243", "quantity": 4}
+21:32:45 [producer] Done. Published 4 message(s).

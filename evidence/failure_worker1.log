@@ -1,0 +1,3 @@
+21:32:43 [worker-1] Waiting for messages on queue 'orders' (CTRL+C to stop)
+21:32:45 [worker-1] RECEIVED  ORD-0001 event_id=evt-0c9eae2e redelivered=False delivery_tag=1
+21:32:45 [worker-1] CRASH     simulating failure on ORD-0001 BEFORE processing/ACK (exiting)

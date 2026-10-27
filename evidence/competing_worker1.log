@@ -1,0 +1,11 @@
+21:32:33 [worker-1] Waiting for messages on queue 'orders' (CTRL+C to stop)
+21:32:35 [worker-1] RECEIVED  ORD-0001 event_id=evt-98030fc3 redelivered=False delivery_tag=1
+21:32:35 [worker-1] PROCESSING ORD-0001: item=ITEM-467 qty=2
+21:32:36 [worker-1] ACKED     ORD-0001 event_id=evt-98030fc3
+21:32:36 [worker-1] RECEIVED  ORD-0004 event_id=evt-b515ba56 redelivered=False delivery_tag=2
+21:32:36 [worker-1] PROCESSING ORD-0004: item=ITEM-786 qty=3
+21:32:37 [worker-1] ACKED     ORD-0004 event_id=evt-b515ba56
+21:32:37 [worker-1] RECEIVED  ORD-0006 event_id=evt-ad3fa32e redelivered=False delivery_tag=3
+21:32:37 [worker-1] PROCESSING ORD-0006: item=ITEM-770 qty=2
+21:32:38 [worker-1] ACKED     ORD-0006 event_id=evt-ad3fa32e
+21:32:42 [worker-1] Shutting down

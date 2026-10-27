@@ -1,0 +1,7 @@
+21:32:35 [producer] Published {"event_id": "evt-98030fc3", "order_id": "ORD-0001", "item_id": "ITEM-467", "quantity": 2}
+21:32:35 [producer] Published {"event_id": "evt-a783c277", "order_id": "ORD-0002", "item_id": "ITEM-597", "quantity": 4}
+21:32:35 [producer] Published {"event_id": "evt-8e760cfc", "order_id": "ORD-0003", "item_id": "ITEM-952", "quantity": 4}
+21:32:35 [producer] Published {"event_id": "evt-b515ba56", "order_id": "ORD-0004", "item_id": "ITEM-786", "quantity": 3}
+21:32:35 [producer] Published {"event_id": "evt-3de1a1a6", "order_id": "ORD-0005", "item_id": "ITEM-373", "quantity": 4}
+21:32:35 [producer] Published {"event_id": "evt-ad3fa32e", "order_id": "ORD-0006", "item_id": "ITEM-770", "quantity": 2}
+21:32:35 [producer] Done. Published 6 message(s).
